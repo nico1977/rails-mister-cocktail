@@ -28,14 +28,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 4.0'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
-<<<<<<< HEAD
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'font-awesome-sass', '~> 5.0.9'
 gem 'simple_form'
-=======
 
->>>>>>> 483c49c0172b8057b1b713e38e08ccbb01ec03d6
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
@@ -62,8 +59,5 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-<<<<<<< HEAD
 gem 'rspec-rails', group: [ :test ]
 gem 'rails-controller-testing', group: [ :test ]
-=======
->>>>>>> 483c49c0172b8057b1b713e38e08ccbb01ec03d6
